@@ -1,5 +1,5 @@
 # UMD Myles Lane
-### Tips to Organizing Research***
+### Tips to Organizing Research
 
 **Name**
 
