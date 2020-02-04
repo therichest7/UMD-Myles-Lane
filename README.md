@@ -17,3 +17,21 @@ A data scientist?
 * I use R for doing analyses
 * I use Evernote to keep track of my notes
 * I use github for version control
+
+
+
+“tips to organizing research
+Name?
+
+Richard Ayodele jr 􏰀 
+
+What kind of scientist do you you tell people you are at dinner parties?
+
+computer scientist 􏰀
+
+In the past month, what are the three main activities you have been doing at work?
+nothing 
+
+􏰀 What are the three most important tools/strategies you use for organizing your work? 
+
+nothing
